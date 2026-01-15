@@ -138,9 +138,11 @@ mata
 klinik
 tenun
 tukang
+kahyangan
 endek
 piutang
 ati
 widyadari
 tamiu
 pecalang
+pis
